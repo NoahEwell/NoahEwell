@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoahEwell
+- 👀 I’m interested in building games using object-oriented programming.
+- 🌱 I’m currently learning about data structures and web development.
+- 💞️ I’m looking to collaborate on building simple online games similar to what you'd find at starblast.io or coolmathgames.com.
+- 📫 You can reach me by emailing noahewell.life@gmail.com.
