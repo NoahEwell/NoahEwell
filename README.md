@@ -28,9 +28,9 @@ A fully controllable Arduino-based claw machine that demonstrates my ability to 
 
 ## ✉️ [Get in Touch](https://noahsnook.me/contact/contact.html)
 
-- **Website**: [Noah's Nook](https://noahsnook.me)
-- **LinkedIn**: [Noah Ewell](https://www.linkedin.com/in/noahewell)
-- **Email**: [your.email@example.com](mailto:noahewell.life@gmail.com)
+- [**Website**: ](https://noahsnook.me)
+- [**LinkedIn**: ](https://www.linkedin.com/in/noahewell)
+- [**Email**: ](mailto:noahewell.life@gmail.com)
 
 ## 🎯 Future Goals
 
