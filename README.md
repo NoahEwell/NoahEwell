@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate and driven Computer Science junio
 
 ## Technical Skills
 
-**Languages and Frameworks**: Java, HTML5, CSS3, JavaScript, PHP, SQL, Node.js, JUnit, Express.js
-**Developer Tools**: Git, Git Bash, Eclipse, VS Code, ChatGPT-4o
-**Developer Skills**: Object-Oriented Programming, Testing, Agile Methodologies, Prompt Engineering
+- **Languages and Frameworks**: Java, HTML5, CSS3, JavaScript, PHP, SQL, Node.js, JUnit, Express.js
+- **Developer Tools**: Git, Git Bash, Eclipse, VS Code, ChatGPT-4o
+- **Developer Skills**: Object-Oriented Programming, Testing, Agile Methodologies, Prompt Engineering
 
 ## [Projects](https://noahsnook.me/projects/projects.html)
 
