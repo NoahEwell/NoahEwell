@@ -1,4 +1,4 @@
-# Hi there, I'm Noah Ewell! 👋
+# Hi there, I'm Noah Ewell! 💻
 
 Welcome to my GitHub profile! I'm a passionate and driven Computer Science junior, currently studying at Weber State University. With a strong foundation in programming and a thirst for knowledge, I am dedicated to crafting innovative solutions and continuously honing my skills.
 
