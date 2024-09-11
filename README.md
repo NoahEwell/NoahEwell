@@ -36,4 +36,4 @@ A fully controllable Arduino-based claw machine that demonstrates my ability to 
 
 I am eager to continue learning and growing as a developer, with a keen interest in mastering new technologies and contributing to impactful projects. My goal is to apply my skills in a dynamic and challenging environment, with aspirations of joining a top tech company.
 
-Thanks for stopping by! Feel free to reach out – I’d love to connect!
+Feel free to reach out – I’d love to connect!
