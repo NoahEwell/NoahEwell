@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate and driven Computer Science junio
 A project that enhances user experience by streamlining interactions within the Disney ecosystem, showcasing my ability to work with data structures and algorithms.
 
 ### Arduino Claw Machine 🤖
-*Showcased at the Salt Lake Community College's Programming Jamboree.*  
+*Featured at the Salt Lake Community College's Programming Jamboree.*  
 A fully controllable Arduino-based claw machine that demonstrates my ability to integrate hardware and software.
 
 ## [Get in Touch](https://noahsnook.me/contact/contact.html)
