@@ -1,21 +1,18 @@
 # Hi there, I'm Noah Ewell! 💻
 
-Welcome to my GitHub profile! I'm a passionate and driven Computer Science junior, currently studying at Weber State University. With a strong foundation in programming and a thirst for knowledge, I am dedicated to crafting innovative solutions and continuously honing my skills.
+Welcome to my GitHub profile! I'm a passionate and driven Computer Science senior, currently studying at Weber State University.
 
 ## About Me
 
 - **Education**: Associate's Degree in Computer Science, currently pursuing a Bachelor's Degree.
-- **Bootcamp**: Enrolled in a Full Stack Web Development Bootcamp, expanding my expertise in modern web technologies.
-- **Freelance Experience**: Gaining real-world experience as a freelance web developer, focusing on creating responsive and user-friendly websites.
+- **Work Experience**: I have been a part of 2 agile software development teams for internships. I am seeking new grad opportunities for April 2026.
 - **Soft Skills**: Leadership, public speaking, and exceptional communication skills developed through extensive volunteering and leadership roles.
-- **Customer Service**: Former Solutions Specialist at Verizon, with a strong background in problem-solving and customer interaction.
 
 ## Technical Skills
 
-- **Languages and Frameworks**: Java, HTML5, CSS3, JavaScript, PHP, SQL, Node.js, JUnit, Express.js
-- **Developer Tools**: Git, Git Bash, Eclipse, VS Code, ChatGPT-4o
-- **Developer Skills**: Object-Oriented Programming, Testing, Agile Methodologies, Prompt Engineering
-
+- **Languages and Frameworks**: Java, .Net, Python, SQL, Web Technologies.
+- **Developer Tools**: Git, Git Bash, Eclipse, Visual Studio, VS Code, Containers, Virtual Machines, etc...
+  
 ## [Projects](https://noahsnook.me/projects/projects.html)
 
 ### Disney Shortcuts 🌟
@@ -34,6 +31,4 @@ A fully controllable Arduino-based claw machine that demonstrates my ability to 
 
 ## Future Goals
 
-I am eager to continue learning and growing as a developer, with a keen interest in mastering new technologies and contributing to impactful projects. My goal is to apply my skills in a dynamic and challenging environment, with aspirations of joining a top tech company.
-
-Feel free to reach out – I’d love to connect!
+I am currently looking for new grad offers for April 2026 when I graduate with my 4 year degree. I might be flexible with starting beforehand. Reach out to me and let's talk!
